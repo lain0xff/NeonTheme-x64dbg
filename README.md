@@ -6,7 +6,7 @@
 > A high-contrast theme inspired by Cyberpunk: Edgerunners anime.
 
 ## ⚡ Installation
-1. Download latest `.zip` from [Releases](https://github.com/lain0xff/NeonTheme-x64dbg)
+1. Download repository 
 2. Extract to `%APPDATA%\x64dbg\themes\`
 3. In x64dbg: `Parameters > Themes > Neon`
 
