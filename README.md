@@ -10,3 +10,5 @@
 2. Extract to `%APPDATA%\x64dbg\themes\`
 3. In x64dbg: `Menu > View > Themes > Neon`
 
+This repository is forked by https://github.com/OALabs/uwudbg-theme
+
