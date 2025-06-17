@@ -8,7 +8,7 @@
 ## ⚡ Installation
 1. Download latest `.zip` from [Releases](https://github.com/lain0xff/NeonTheme-x64dbg)
 2. Extract to `%APPDATA%\x64dbg\themes\`
-3. In x64dbg: `Menu > View > Themes > Neon`
+3. In x64dbg: `Parameters > Themes > Neon`
 
 This repository is forked by https://github.com/OALabs/uwudbg-theme
 
